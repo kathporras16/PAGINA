@@ -1,0 +1,9 @@
+---
+title: "Cuentos lindos"
+---
+
+[Caperucita Roja](https://www.chiquipedia.com/cuentos-infantiles-cortos/cuentos-tradicionales/caperucita-roja/)
+
+Esta es una foto que demuestra el cuento
+
+![](Imagenes/caperucita.jpg)

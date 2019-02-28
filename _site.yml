@@ -1,0 +1,12 @@
+name: "my-website"
+navbar:
+  title: "Katherine Porras"
+  left:
+    - text: "Principal"
+      href: index.html
+    - text: "Adjuntos"
+      href: about.html
+output:
+  html_document:
+    theme: cerulean
+    highligth: textmate 
